@@ -10,7 +10,7 @@ A virtual Tesebed Framework for Tactile Industrial IoTs to investiage the QoS an
 
 ## Starting **IoTactileSim**
 *To run the IoTactileSim, go to the folder [Mininet_Emulator](Mininet_Emulator) and run the command $sudo python3 [MininetEmulator.py](Mininet_Emulator/MininetEmulator.py)
-* GUI window will poop up to selecte start simulation tap (After pressing  start simulation buttion it create netrwork topology and asked for Experiment Type)
+* GUI window will poop up to selecte start simulation tap *(After pressing  start simulation buttion it create netrwork topology and asked for Experiment Type)*
 1. Exp#1; Haptic Data Transfer
 2. Exp#2 Direct Control
 3. Exp#3 Mouse Control with Feedback
