@@ -1,0 +1,14 @@
+PC_1 = "10.0.0.1"
+PC_2 = "10.0.0.2"
+PC_3 = "10.0.0.3"
+packet_len=128
+n_packets=10000
+send_rate_kbytes_per_s=1
+n_packets_expected=n_packets
+
+## set link udp ports
+portStart = 6000
+kin_link_0=portStart
+kin_link_1=portStart+1
+kin_link_2=portStart+2
+kin_link_3=portStart+3

@@ -1,0 +1,20 @@
+
+
+
+### Mininet_Emulator link settings between Host to switches and switches to switches
+
+
+#########  Host to switches link setting
+Ht_swt_linkConfiguration = {'delay':'0', 'bw' : 100}
+
+
+######## switches to switches  link setting
+
+s0s1_linkConfiguration = {'delay':'0.2ms', 'bw' : 100, 'use_htb':'True'}
+s0s3_linkConfiguration = {'delay':'0.2ms', 'bw' : 100, 'use_htb':'True'}
+s1s2_linkConfiguration = {'delay':'0.2ms', 'bw' : 100, 'use_htb':'True'}
+s1s3_linkConfiguration = {'delay':'0.2ms', 'bw' : 100, 'use_htb':'True'}
+s2s4_linkConfiguration = {'delay':'0.2ms', 'bw' : 100, 'use_htb':'True'}
+s3s4_linkConfiguration = {'delay':'0.2ms', 'bw' : 100, 'use_htb':'True'}
+s3s5_linkConfiguration = {'delay':'0.2ms', 'bw' : 100, 'use_htb':'True'}
+s4s5_linkConfiguration = {'delay':'0.2ms', 'bw' : 100, 'use_htb':'True'}
