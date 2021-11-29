@@ -3,8 +3,8 @@ A virtual Tesebed Framework for Tactile Industrial IoTs to investiage the QoS an
 ## Package and OS Requirments 
 * Ubuntu 18.04 LTS
 * Python v3.8
-* Mininet Emulator 3.6.9
-* CoppeliaSim 4.2
+* [Mininet Emulator 3.6.9](http://mininet.org/download/)
+* [CoppeliaSim 4.2](https://www.coppeliarobotics.com/)
 * Other packeges 
 (pynput==1.1.7; ;pandas; Sim_GUI; socklet; pickle; multiprocessing;  libgl1-mesa-dev; mss==3.1.2; numpy; matplotlib)
 
