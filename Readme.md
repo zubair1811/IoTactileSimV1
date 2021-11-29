@@ -21,6 +21,6 @@ A virtual Tesebed Framework for Tactile Industrial IoTs to investiage the QoS an
 * Finaly, ***IoTactileSim*** asked to proceed with new experiment or end simulation.
 
 ### Note
-The experiment results represent in the paper are stored in [MD_graphs](Experiment Results Files)
+The experiment results represent in the paper are stored in Experiment Results Files folder.
 
 
