@@ -20,4 +20,7 @@ A virtual Tesebed Framework for Tactile Industrial IoTs to investiage the QoS an
 * After finish experiments its open a new window to display results and store in to [HD_graphs](1_Exp_Haptic_Data/HD_graphs/), [MD_graphs](2_Exp_Mouse_VREP_Feedback/MD_graphs/)
 * Finaly, ***IoTactileSim*** asked to proceed with new experiment or end simulation.
 
+###Note
+The experiment results represent in the paper are stored in [Experiment Results Files](/Experiment Results Files/)
+
 
