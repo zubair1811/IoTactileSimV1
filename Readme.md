@@ -9,6 +9,6 @@ A virtual Tesebed Framework for Tactile Industrial IoTs to investiage the QoS an
 (pynput==1.1.7; ;pandas; Sim_GUI; socklet; pickle; multiprocessing;  libgl1-mesa-dev; mss==3.1.2; numpy; matplotlib)
 
 ## Starting **IoTactileSim**
-To run the IoTactileSim, go to the folder [Mininet_Emulator](Mininet_Emulator) and run the command $sudo python [MininetEmulator.py[()
+To run the IoTactileSim, go to the folder [Mininet_Emulator](Mininet_Emulator) and run the command $sudo python [MininetEmulator.py[(Mininet_Emulator/MininetEmulator.py)
 
 
