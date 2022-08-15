@@ -23,4 +23,21 @@ A virtual Tesebed Framework for Tactile Industrial IoTs to investiage the QoS an
 ### Note
 The experiment results represent in the paper are stored in Experiment Results Files folder.
 
+## Publication
+### If you use this source code, please cite this paper.
+[IoTactileSim: A Virtual Testbed for Tactile Industrial Internet of Things Services](https://www.mdpi.com/1424-8220/21/24/8363)
+
+[
+@article{zubair2021iotactilesim,
+  title={IoTactileSim: A Virtual Testbed for Tactile Industrial Internet of Things Services},
+  author={Zubair Islam, Muhammad and Ali, Rashid and Haider, Amir and Kim, Hyungseok},
+  journal={Sensors},
+  volume={21},
+  number={24},
+  pages={8363},
+  year={2021},
+  publisher={MDPI}
+}
+]
+
 
