@@ -7,6 +7,21 @@ A virtual Tesebed Framework for Tactile Industrial IoTs to investiage the QoS an
 * [CoppeliaSim 4.2](https://www.coppeliarobotics.com/)
 * Other packeges 
 (pynput==1.1.7; ;pandas; Sim_GUI; socklet; pickle; multiprocessing;  libgl1-mesa-dev; mss==3.1.2; numpy; matplotlib)
+#### How to install
+1- Go to mininet website [mininet](https://mininet.org/download/)
+```
+git clone https://github.com/mininet/mininet
+cd mininet
+git tag  # list available versions
+git checkout -b mininet-2.3.0 2.3.0  # or whatever version you wish to install
+cd ..
+PYTHON=python3 util/install.sh -a : install with pyuthon3 version 
+```
+2- sudo apt-get install python3.8
+3- sudo apt install Python3-pip
+5- Create alias for python3.8 and pip3 as `python=python3.8, pip=pip3`
+4- pip install PySimpleGUI==4.59.0
+3- 
 
 ## Starting ***IoTactileSim***
 *To run the IoTactileSim, go to the folder [Mininet_Emulator](Mininet_Emulator) and run the command $sudo python3 [MininetEmulator.py](Mininet_Emulator/MininetEmulator.py)
